@@ -71,3 +71,8 @@ The ping command is a network utility for testing whether a host is reachable. T
 ```
 ping [options] [hostname/IP]
 ```
+## ss
+The ss command is a CLI tool for displaying network statistics. The tool is part of the iproute2 package and is a faster alternative to the netstat command.
+```
+ss [options] [filter]
+```
