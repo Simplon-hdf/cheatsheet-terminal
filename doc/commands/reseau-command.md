@@ -83,3 +83,6 @@ route [options] [subcommand] [arguments]
 ```
 ## arp
 The arp command shows and configures the Address Resolution Protocol (ARP) cache.
+```
+arp
+```
