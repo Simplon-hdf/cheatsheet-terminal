@@ -81,3 +81,5 @@ The route command in Linux is a specialized command for displaying and configuri
 ```
 route [options] [subcommand] [arguments]
 ```
+## arp
+The arp command shows and configures the Address Resolution Protocol (ARP) cache.
