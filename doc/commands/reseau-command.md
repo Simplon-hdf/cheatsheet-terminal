@@ -46,3 +46,8 @@ The netstat command (network statistics) is a networking utility that shows vari
 ```
 netstat [options]
 ```
+## traceroute
+The traceroute command is a networking diagnostics tool available for Linux, macOS, and Windows. The command tracks the route that packets take to reach a destination on a TCP/IP network.
+```
+traceroute [options] [hostname/IP]
+```
