@@ -76,3 +76,8 @@ The ss command is a CLI tool for displaying network statistics. The tool is part
 ```
 ss [options] [filter]
 ```
+## route
+The route command in Linux is a specialized command for displaying and configuring the routing table. The command modifies the kernel's IP routing tables and helps set up static routes to specific hosts or networks.
+```
+route [options] [subcommand] [arguments]
+```
