@@ -51,3 +51,8 @@ The traceroute command is a networking diagnostics tool available for Linux, mac
 ```
 traceroute [options] [hostname/IP]
 ```
+## tracepath
+The tracepath command is similar to the traceroute command. The command identifies paths and latencies from source to destination, mapping the router and network hops.
+```
+tracepath [options] [hostname/IP]
+```
