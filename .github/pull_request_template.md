@@ -20,5 +20,5 @@
 - [X] Gestion des processsus 
 - [ ] Autre raccourcis utiles
 - [ ] Vim
-- [ ] Nanoo
+- [ ] Nano
 

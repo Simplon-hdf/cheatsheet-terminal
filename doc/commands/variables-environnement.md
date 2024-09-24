@@ -6,4 +6,3 @@
 **SHELL:** interpréteur de commandes actuel (bash, zsh, ...)
 **LOGNAME:**  nom de l'utilisateur actuellement connecté.
 **UID:** identifiant unique de l'utilisateur (par exemple : 1000). Information visible dans le fichier /etc/passwd.
- gitt
