@@ -56,3 +56,8 @@ The tracepath command is similar to the traceroute command. The command identifi
 ```
 tracepath [options] [hostname/IP]
 ```
+## host
+The host command is a simple tool for performing DNS lookups. The command resolves IP addresses into domain names and vice versa.
+```
+host [options] [hostname/IP]
+```
