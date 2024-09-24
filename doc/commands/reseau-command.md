@@ -6,6 +6,23 @@
     - [ip link](#ip-link)
     - [ip route](#ip-route)
 - [dig](#dig)
+- [nslookup](#nslookup)
+- [netstat](#netstat)
+- [traceroute](#traceroute)
+- [tracepath](#tracepath)
+- [host](#host)
+- [hostname](#hostname)
+- [ping](#ping)
+- [ss](#ss)
+- [route](#route)
+- [arp](#arp)
+- [iwconfig](#iwconfig)
+- [curl or wget](#curl-or-wget)
+- [mtr](#mtr)
+- [whois](#whois)
+- [iftop](#iftop)
+- [tcpdump](#tcpdump)
+- [ifplugstatus](#ifplugstatus)
 ## ip
 The ip command helps view and configure routing, interfaces, network devices, and tunnels.
 ```
