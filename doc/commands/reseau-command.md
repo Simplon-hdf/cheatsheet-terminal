@@ -36,3 +36,8 @@ The dig command queries Domain Name Systems (DNS) and finds information for DNS 
 ```
 dig [options] [domain] [record type] [DNS server]
 ```
+## nslookup
+The nslookup command is similar to the dig command. The main difference between the two commands is that nslookup features an interactive mode. It enables diagnosing and querying DNS servers, which is helpful for network troubleshooting and DNS tasks.
+```
+nslookup [domain] [DNS server]
+```
