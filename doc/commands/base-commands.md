@@ -36,3 +36,11 @@
 * Afficher les 20 dernières lignes: 'tail -n 20 nom_du_fichier'
 
 **Afficher le contenu d'un fichier page par page:** 'less nom_du_fichier'
+
+**Éditer un fichier:** n'ano nom_du_fichier' ou 'vim nom_du_fichier'
+
+**Rechercher du texte dans un fichier:** 'grep "texte" nom_du_fichier'
+
+**Afficher l'historique des commandes:** 'history'
+
+**Effacer le terminal:** 'clear'
