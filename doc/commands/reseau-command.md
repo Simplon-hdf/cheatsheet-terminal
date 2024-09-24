@@ -114,3 +114,8 @@ The iftop command is a network monitoring utility. Use the command to view netwo
 ```
 iftop [options]
 ```
+## tcpdump
+The tcpdump command is a packet sniffer and network security tool that captures real-time network packet information.
+```
+tcpdump [options] [filter]
+```
