@@ -119,3 +119,8 @@ The tcpdump command is a packet sniffer and network security tool that captures 
 ```
 tcpdump [options] [filter]
 ```
+## ifplugstatus
+The ifplugstatus command is a simple utility to check the network interface status.
+```
+ifplugstatus [options] [interface]
+```
