@@ -66,3 +66,8 @@ The hostname command helps display and change a system's hostname and domain and
 ```
 hostname [options] [name]
 ```
+## ping
+The ping command is a network utility for testing whether a host is reachable. The command sends ICMP requests to a host (a computer or server) and measures the round-trip time (RTT).
+```
+ping [options] [hostname/IP]
+```
