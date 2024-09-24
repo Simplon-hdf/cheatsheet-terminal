@@ -104,3 +104,8 @@ The mtr command (my traceroute) is a diagnostics tool that combines elements fro
 ```
 mtr [options] [hostname/IP]
 ```
+## whois
+The whois command queries information about domain names, IP addresses, and other network-related information.
+```
+whois [options] [query]
+```
