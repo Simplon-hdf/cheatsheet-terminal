@@ -1,7 +1,7 @@
 ### Commandes liées aux permissions
 
 Les permissions en ligne de commande sont un système qui permet de contrôler l'accès aux fichiers et répertoires.
-Elles sont généralement 
+Elles sont généralement définies via une notation que l'on appelle *octale* 
 
 **La notation octale**
 
