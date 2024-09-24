@@ -99,3 +99,8 @@ wget [options] [URL]
 ```
 curl [options] [URL]
 ```
+## mtr
+The mtr command (my traceroute) is a diagnostics tool that combines elements from the ping and traceroute commands.
+```
+mtr [options] [hostname/IP]
+```
