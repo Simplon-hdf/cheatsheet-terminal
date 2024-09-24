@@ -109,3 +109,8 @@ The whois command queries information about domain names, IP addresses, and othe
 ```
 whois [options] [query]
 ```
+## iftop
+The iftop command is a network monitoring utility. Use the command to view network connections and bandwidth usage in real time.
+```
+iftop [options]
+```
