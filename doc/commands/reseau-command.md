@@ -91,3 +91,11 @@ The iwconfig command shows and configures wireless network interface information
 ```
 iwconfig [interface] [options]
 ```
+## curl or wget
+The wget and curl commands are command-line tools for downloading files from the internet.
+```
+wget [options] [URL]
+```
+```
+curl [options] [URL]
+```
