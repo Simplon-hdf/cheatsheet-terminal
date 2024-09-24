@@ -25,3 +25,9 @@ The ip route command shows and configures the IP routing table. The command allo
 ```
 ip route [subcommand] [options] [destination]
 ```
+
+## ifconfig
+The ifconfig (interface configuration) command manages and shows network interface information on a system. The command is part of the net-tools package.
+```
+ifconfig [interface] [options]
+```
