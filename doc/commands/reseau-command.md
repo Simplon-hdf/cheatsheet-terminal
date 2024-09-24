@@ -41,3 +41,8 @@ The nslookup command is similar to the dig command. The main difference between 
 ```
 nslookup [domain] [DNS server]
 ```
+## netstat
+The netstat command (network statistics) is a networking utility that shows various networking statistics. The command provides statistics for network ports and shows port availability.
+```
+netstat [options]
+```
