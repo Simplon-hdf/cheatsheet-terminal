@@ -61,3 +61,8 @@ The host command is a simple tool for performing DNS lookups. The command resolv
 ```
 host [options] [hostname/IP]
 ```
+## hostname
+The hostname command helps display and change a system's hostname and domain and identifies devices within a network environment.
+```
+hostname [options] [name]
+```
