@@ -24,7 +24,7 @@
 <ul>
         <li><a href="/doc/commands/base-commands.md">Commandes de base</a></li>
         <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
-        <li><a href="/doc/commands/file-manipulation.md">Script et automatisation</a></li>
+        <li><a href="/doc/commands/script-automation.md">Script et automatisation</a></li>
         <li><a href="/doc/commands/network-commands.md">Network-commands</a></li>
         <li><a href="/doc/commands/permissions.md">Permissions</a></li>
         <li><a href="/doc/commands/variables-environnement.md">Variables environnement</a></li>
