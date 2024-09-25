@@ -61,3 +61,8 @@ To create a group, run the following command:
 ```
 $ sudo groupadd <groupname>
 ```
+## sudo gpasswd
+To add an already created users to each group assuming each user fits the group role, use the gpasswd command with the following syntax:
+```
+$ sudo gpasswd -A <user> -M <user,user,user> <groupname>
+```
