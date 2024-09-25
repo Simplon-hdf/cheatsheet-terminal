@@ -31,3 +31,8 @@ To create a regular user using the useradd command following this syntax:
 ```
 useradd -m <name-of-user>
 ```
+## usermod
+To assign admin privileges to this user as follows:
+```
+usermod -aG sudo <username>
+```
