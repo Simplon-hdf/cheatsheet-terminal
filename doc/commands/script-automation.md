@@ -32,5 +32,15 @@ Les scripts Bash (.bash) sont des **fichiers texte contenant une séquence de co
     ls -l
     ```
 
+## Exécution d'un Script Bash
+
+1. Donner les droits d'exécution au script
+
+    Avant de pouvoir exécuter le script, vous devez le rendre exécutable avec la commande chmod :
+
+    ```bash
+    chmod +x mon_script.sh
+    ```
+
 
 
