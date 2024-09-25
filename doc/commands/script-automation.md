@@ -42,5 +42,19 @@ Les scripts Bash (.bash) sont des **fichiers texte contenant une séquence de co
     chmod +x mon_script.sh
     ```
 
+2. Exécution du script
 
+    Vous pouvez ensuite exécuter le script en précisant son chemin relatif ou absolu.
+
+    *   Si le script se trouve dans le répertoire courant :
+
+        ```bash
+        ./mon_script.sh
+        ```
+
+    *   Si le script est dans un autre répertoire, utilisez le chemin complet ou relatif :
+
+        ```bash
+        /chemin/vers/mon_script.sh
+        ```
 
