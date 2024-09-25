@@ -83,10 +83,15 @@ Ce projet a été construit avec les technologies suivantes :
 Suivez ces étapes pour configurer le projet localement :
 
 **Cloner le dépôt** :
+
    ```git clone https://github.com/Simplon-hdf/cheatsheet-terminal.git```
+
    **Accéder au depot** :
+
    ```cd CommandsShortcuts```
+
    **Basculer sur develop** :
+   
   ```git checkout develop```
 
  **Puis go faire un pull request, nous intégrerons votre pull request dans les meilleurs délais** 📨
