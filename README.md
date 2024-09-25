@@ -99,7 +99,7 @@ Suivez ces étapes pour configurer le projet localement :
 <h3>🏋️‍♂️ Contributions 🏋️‍♀️</h3>
 </summary>
 <ul>
-Merci à toutes les personnes qui ont contribué à ce projet !
+Merci à toutes les personnes qui ont contribué à ce projet ! <br>
 <a href="https://github.com/Simplon-Hdf/cheatsheet-terminal/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Simplon-Hdf/cheatsheet-terminal" />
 </a>
