@@ -46,3 +46,8 @@ To create more users with the useradd command:
 ```
 $ sudo useradd -m <name of user>
 ```
+## getent passwd
+To view all users, run the following command:
+```
+$ getent passwd
+```
