@@ -11,7 +11,7 @@ Il est souvent utilisé pour éditer des fichiers de configuration ou des script
 
 Pour ouvrir un fichier avec Nano, il suffit de taper la commande suivante dans le terminal :
 
-```bash
+```
 nano nomdufichier.txt
 ```
 
