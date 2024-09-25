@@ -30,7 +30,7 @@ Cette commande attribue les droits :
 - de lecture seule au groupe (4)
 - également de lecture seule aux autres utilisateurs (4)
 
-<p align="center"><img src="assets/img/octal-notation"/></p>
+<p align="center"><img src="assets/img/octal-notation.png"/></p>
 
 *Note : la valeur 7 existe : elle donne l'accès à tous les droits : lecture, écriture et exécution*
 
