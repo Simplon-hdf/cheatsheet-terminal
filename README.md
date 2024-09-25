@@ -1,6 +1,7 @@
 # Cheat sheet pour le terminal
 
 <p align="center"><img src="assets/img/mainImg3.png"/></p>
+
 --- 
 
 ## Features
