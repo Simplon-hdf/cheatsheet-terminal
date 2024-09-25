@@ -87,7 +87,7 @@ Suivez ces étapes pour configurer le projet localement :
    **Accéder au depot** :
    #### cd CommandsShortcuts
    **Basculer sur develop** :
-   #### git checkout developte
+   #### git checkout develop
 
  **Puis go faire un pull request, nous intégrerons votre pull request dans les meilleurs délais** 📨
 
