@@ -41,3 +41,8 @@ To switch to the admin superuser using the following command:
 ```
 $ sudo su <adminuser>
 ```
+## sudo useradd
+To create more users with the useradd command:
+```
+$ sudo useradd -m <name of user>
+```
