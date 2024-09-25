@@ -11,7 +11,7 @@ The syntax is as follows:
 chmod [entity + permissions] [file]
 ```
 ## chgrp
-By issuing these commands, you can change groups of files and directories in Linux. 
+To change groups of files and directories in Linux. 
 ```
 chgrp groupname filename
 ```
