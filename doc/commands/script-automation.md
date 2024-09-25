@@ -208,3 +208,17 @@ Vous pouvez également utiliser des pipes :
 ls -l | grep ".sh"
 ```
 
+### Gestion des erreurs
+
+Il est possible de gérer les erreurs dans un script Bash :
+
+```bash
+#!/bin/bash
+if [ ! -f "$1" ]; then
+  echo "Erreur : le fichier $1 n'existe pas."
+  exit 1
+fi
+```
+
+`exit` : Termine l'exécution du script avec un code de retour. Par convention, 0 signifie succès et un autre nombre indique une erreur.
+
