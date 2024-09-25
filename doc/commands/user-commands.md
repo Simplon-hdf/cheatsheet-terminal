@@ -51,3 +51,8 @@ To view all users, run the following command:
 ```
 $ getent passwd
 ```
+## sudo userdel
+To delete a user, run the command:
+```
+$ sudo userdel -f <user>
+```
