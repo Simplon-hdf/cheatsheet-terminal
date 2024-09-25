@@ -81,3 +81,36 @@ echo "Bonjour, $nom !"
 
 Les variables sont accessibles en utilisant le symbole `$`. Il est important de ne pas utiliser d'espaces autour du signe `=` lors de l’affectation des valeurs.
 
+## Paramètres dans un Script
+
+Les paramètres passés à un script sont accessibles via des variables positionnelles :
+
+*   `$0` : Nom du script.
+*   `$1, $2, ..., $N` : Paramètres passés au script.
+*   `$#` : Nombre total de paramètres.
+*   `$@` : Liste de tous les paramètres.
+
+Exemple: 
+
+```bash
+#!/bin/bash
+echo "Le script est exécuté avec le nom : $0"
+echo "Le premier argument est : $1"
+echo "Le second argument est : $2"
+echo "Vous avez passé $# arguments"
+```
+
+Exécution :
+
+```bash
+./mon_script.sh arg1 arg2
+```
+
+Sortie :
+
+```bash
+Le script est exécuté avec le nom : ./mon_script.sh
+Le premier argument est : arg1
+Le second argument est : arg2
+Vous avez passé 2 arguments
+```
