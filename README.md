@@ -87,7 +87,7 @@ Suivez ces étapes pour configurer le projet localement :
    **Accéder au depot** :
    #### cd CommandsShortcuts
    **Basculer sur develop** :
-   #### git checkout develop
+   #### git checkout developte
 
  **Puis go faire un pull request, nous intégrerons votre pull request dans les meilleurs délais** 📨
 
@@ -100,6 +100,11 @@ Suivez ces étapes pour configurer le projet localement :
 </summary>
 <ul>
 Merci à toutes les personnes qui ont contribué à ce projet !
+Merci à toutes les personnes qui ont contribué à ce projet ! <br>
+<a href="https://github.com/Simplon-Hdf/cheatsheet-terminal/graphs/contributors">
+  <br>
+  <img src="https://contrib.rocks/image?repo=Simplon-Hdf/cheatsheet-terminal" />
+</a>
 
 - [Boris](https://github.com/BborisB)
 - [Yohan](https://github.com/YohanF1245)
