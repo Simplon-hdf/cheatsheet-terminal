@@ -36,3 +36,8 @@ To assign admin privileges to this user as follows:
 ```
 usermod -aG sudo <username>
 ```
+## sudo su
+To switch to the admin superuser using the following command:
+```
+$ sudo su <adminuser>
+```
