@@ -26,3 +26,8 @@ chown name filename
 ```
 chown name foldername
 ```
+## useradd
+To create a regular user using the useradd command following this syntax:
+```
+useradd -m <name-of-user>
+```
