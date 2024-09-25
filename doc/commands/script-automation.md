@@ -190,3 +190,21 @@ addition() {
 addition 5 10
 ```
 
+## Redirection et Pipes dans les Scripts
+
+Vous pouvez rediriger la sortie ou l'entrée dans les scripts comme vous le feriez dans le terminal :
+
+```bash
+#!/bin/bash
+# Redirige la sortie de la commande ls vers un fichier
+ls -l > sortie.txt
+```
+
+Vous pouvez également utiliser des pipes :
+
+```bash
+#!/bin/bash
+# Utilise un pipe pour filtrer la sortie de ls avec grep
+ls -l | grep ".sh"
+```
+
