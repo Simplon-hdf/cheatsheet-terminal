@@ -83,7 +83,7 @@ Ce projet a été construit avec les technologies suivantes :
 Suivez ces étapes pour configurer le projet localement :
 
 **Cloner le dépôt** :
-   #### git clone https://github.com/alf-Meodel/CommandsShortcuts.git
+   #### git clone https://github.com/Simplon-hdf/cheatsheet-terminal.git
    **Accéder au depot** :
    #### cd CommandsShortcuts
    **Basculer sur develop** :
@@ -101,10 +101,10 @@ Suivez ces étapes pour configurer le projet localement :
 <ul>
 Merci à toutes les personnes qui ont contribué à ce projet !
 
-- [Boris](https://github.com/nom-utilisateur1)
-- [Yohan](https://github.com/nom-utilisateur2)
-- [Gabriel](https://github.com/nom-utilisateur3)
-- [Franck](https://github.com/nom-utilisateur3)
+- [Boris](https://github.com/BborisB)
+- [Yohan](https://github.com/YohanF1245)
+- [Gabriel](https://github.com/gabrielluthun)
+- [Franck](https://github.com/alf-Meodel)
 
 </ul>
 </details>
