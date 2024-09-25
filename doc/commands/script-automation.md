@@ -168,3 +168,25 @@ Vous avez passé 2 arguments
     done
     ```
 
+## Fonctions dans les Scripts
+
+Les fonctions permettent de réutiliser des parties du code :
+
+```bash
+#!/bin/bash
+ma_fonction() {
+  echo "Ceci est une fonction"
+}
+ma_fonction
+```
+
+Vous pouvez également passer des paramètres à une fonction :
+
+```bash
+#!/bin/bash
+addition() {
+  echo "La somme de $1 et $2 est $(( $1 + $2 ))"
+}
+addition 5 10
+```
+
