@@ -1,5 +1,15 @@
 # Cheat sheet pour le terminal
+
+<p align="center"><img src="assets/img/mainImg3.png"/></p>
+
 --- 
+
+## Features
+- 🛠️ **Facile à utiliser** : Simple cheat sheet pour les commandes du terminal.
+- 📄 **Documentation complète** : Inclut des explications pour chaque commande.
+- 🌍 **Open-source** : Contribuez facilement via GitHub.
+
+
 ## Sommaire
 
 - ### Commandes
