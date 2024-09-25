@@ -56,3 +56,8 @@ To delete a user, run the command:
 ```
 $ sudo userdel -f <user>
 ```
+## sudo groupadd
+To create a group, run the following command:
+```
+$ sudo groupadd <groupname>
+```
