@@ -114,3 +114,17 @@ Le premier argument est : arg1
 Le second argument est : arg2
 Vous avez passé 2 arguments
 ```
+
+### Structures de Contrôle
+
+1.  Conditions (if-else)
+
+    Vous pouvez inclure des conditions dans vos scripts pour exécuter des commandes sous certaines conditions :
+
+    ```bash
+    #!/bin/bash
+    if [ $1 -eq 10 ]; then
+        echo "Le premier paramètre est égal à 10"
+    else
+        echo "Le premier paramètre n'est pas égal à 10"
+    fi
