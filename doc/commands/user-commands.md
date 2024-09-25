@@ -66,3 +66,8 @@ To add an already created users to each group assuming each user fits the group 
 ```
 $ sudo gpasswd -A <user> -M <user,user,user> <groupname>
 ```
+## getent group
+To view all groups, run the following command:
+```
+$ getent group
+```
