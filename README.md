@@ -36,7 +36,7 @@
 </summary>
 <ul>
         <li><a href="/doc/hotkeys/navigation.md">Navigation</a></li>
-        <li><a href="/doc/hotkeys/process-management.md">Gestion des processus</a></li>
+        <li><a href="doc/hotkeys/editor-nano-shortcut.md">Les raccourcis dans l'éditeur Nano</a></li>
 </ul>
 </details>
 
@@ -99,6 +99,7 @@ Suivez ces étapes pour configurer le projet localement :
 <h3>🏋️‍♂️ Contributions 🏋️‍♀️</h3>
 </summary>
 <ul>
+Merci à toutes les personnes qui ont contribué à ce projet !
 Merci à toutes les personnes qui ont contribué à ce projet ! <br>
 <a href="https://github.com/Simplon-Hdf/cheatsheet-terminal/graphs/contributors">
   <br>
