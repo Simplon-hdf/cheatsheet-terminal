@@ -222,3 +222,22 @@ fi
 
 `exit` : Termine l'exécution du script avec un code de retour. Par convention, 0 signifie succès et un autre nombre indique une erreur.
 
+## Exécution en arrière-plan et planification
+
+* Exécuter un script en arrière-plan :
+
+```bash
+./mon_script.sh &
+```
+
+* Planification avec `cron` : Vous pouvez planifier l'exécution automatique de scripts en utilisant `cron`. Pour éditer le `cron` de votre utilisateur, utilisez :
+
+```bash
+crontab -e
+```
+
+* Ajoutez une ligne pour exécuter un script tous les jours à 2h du matin :
+
+```bash
+0 2 * * * /chemin/vers/mon_script.sh
+```
