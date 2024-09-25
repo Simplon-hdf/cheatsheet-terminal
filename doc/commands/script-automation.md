@@ -14,5 +14,10 @@ Les scripts Bash (.bash) sont des **fichiers texte contenant une séquence de co
     nano mon_script.sh
     ```
 
+2.  **Début du script**
 
+    La première ligne du script doit indiquer quel interpréteur de commandes doit être utilisé pour exécuter le script. Pour Bash, c'est généralement :
 
+    ```bash
+    #!/bin/bash
+     ```
