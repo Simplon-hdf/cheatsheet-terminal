@@ -58,3 +58,13 @@ Les scripts Bash (.bash) sont des **fichiers texte contenant une séquence de co
         /chemin/vers/mon_script.sh
         ```
 
+## Commentaires dans un Script
+
+Les commentaires commencent par un `#` et ne sont pas interprétés par Bash. Ils sont utiles pour documenter le script.
+
+```bash
+#!/bin/bash
+# Ce script affiche les fichiers du répertoire courant
+echo "Liste des fichiers :"
+ls -l
+```
