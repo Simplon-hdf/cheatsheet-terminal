@@ -18,3 +18,11 @@ chgrp groupname filename
 ```
 chgrp groupname foldername
 ```
+## chown
+To change ownerships of files and directories in Linux:
+```
+chown name filename
+```
+```
+chown name foldername
+```
