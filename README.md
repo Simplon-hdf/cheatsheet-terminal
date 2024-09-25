@@ -101,6 +101,7 @@ Suivez ces étapes pour configurer le projet localement :
 <ul>
 Merci à toutes les personnes qui ont contribué à ce projet !
 <a href="https://github.com/Simplon-Hdf/cheatsheet-terminal/graphs/contributors">
+  <br>
   <img src="https://contrib.rocks/image?repo=Simplon-Hdf/cheatsheet-terminal" />
 </a>
 
