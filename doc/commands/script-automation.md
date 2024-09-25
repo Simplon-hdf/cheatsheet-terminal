@@ -128,3 +128,9 @@ Vous avez passé 2 arguments
     else
         echo "Le premier paramètre n'est pas égal à 10"
     fi
+    ```
+    
+    * -eq : égal à.
+    * -ne : différent de.
+    * -gt : supérieur à.
+    * -lt : inférieur à.
