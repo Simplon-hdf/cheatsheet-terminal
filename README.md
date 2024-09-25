@@ -9,6 +9,13 @@
 - 📄 **Documentation complète** : Inclut des explications pour chaque commande.
 - 🌍 **Open-source** : Contribuez facilement via GitHub.
 
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/Simplon-hdf/cheatsheet-terminal" alt="GitHub repo size" />
+  <img src="https://img.shields.io/github/contributors/Simplon-hdf/cheatsheet-terminal" alt="GitHub contributors" />
+  <img src="https://img.shields.io/github/stars/Simplon-hdf/cheatsheet-terminal?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/license/Simplon-hdf/cheatsheet-terminal" alt="License" />
+</div>
+
 
 ## Sommaire
 
