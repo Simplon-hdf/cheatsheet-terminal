@@ -21,3 +21,16 @@ Les scripts Bash (.bash) sont des **fichiers texte contenant une séquence de co
     ```bash
     #!/bin/bash
      ```
+
+3. **Ajout de commandes**
+
+    Ensuite, vous pouvez ajouter des commandes que vous souhaitez exécuter. Par exemple :
+
+    ```bash
+    #!/bin/bash
+    echo "Bonjour, bienvenue dans mon script Bash !"
+    ls -l
+    ```
+
+
+
