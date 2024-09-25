@@ -36,7 +36,7 @@
 </summary>
 <ul>
         <li><a href="/doc/hotkeys/navigation.md">Navigation</a></li>
-        <li><a href="doc/hotkeys/shortcut-nano.md">Les raccourcis dans l'éditeur Nano</a></li>
+        <li><a href="doc/hotkeys/editor-nano-shortcut.md">Les raccourcis dans l'éditeur Nano</a></li>
 </ul>
 </details>
 
