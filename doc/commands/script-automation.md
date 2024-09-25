@@ -68,3 +68,16 @@ Les commentaires commencent par un `#` et ne sont pas interprétés par Bash. Il
 echo "Liste des fichiers :"
 ls -l
 ```
+
+## Variables dans les Scripts Bash
+
+Vous pouvez définir des variables dans un script Bash pour stocker des valeurs et les réutiliser :
+
+```bash
+#!/bin/bash
+nom="Alice"
+echo "Bonjour, $nom !"
+```
+
+Les variables sont accessibles en utilisant le symbole `$`. Il est important de ne pas utiliser d'espaces autour du signe `=` lors de l’affectation des valeurs.
+
