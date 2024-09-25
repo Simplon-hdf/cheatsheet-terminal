@@ -129,8 +129,42 @@ Vous avez passé 2 arguments
         echo "Le premier paramètre n'est pas égal à 10"
     fi
     ```
-    
+
     * -eq : égal à.
     * -ne : différent de.
     * -gt : supérieur à.
     * -lt : inférieur à.
+
+2.  Boucles (for, while, until)
+
+    *   Boucle `for` : Pour itérer sur une série d'éléments.
+
+    ```bash
+    #!/bin/bash
+    for fichier in *.txt; do
+        echo "Traitement de $fichier"
+    done
+    ```
+
+    *   Boucle `while` : Exécute tant qu'une condition est vraie.
+
+    ```bash
+    #!/bin/bash
+    compteur=0
+    while [ $compteur -lt 5 ]; do
+        echo "Compteur: $compteur"
+        compteur=$((compteur + 1))
+    done
+    ```
+
+    * Boucle `until` : Exécute tant qu'une condition est fausse.
+
+    ```bash
+    #!/bin/bash
+    compteur=10
+    until [ $compteur -lt 5 ]; do
+        echo "Compteur: $compteur"
+        compteur=$((compteur - 1))
+    done
+    ```
+
