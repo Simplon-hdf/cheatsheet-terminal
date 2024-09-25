@@ -2,7 +2,17 @@
 
 ## Summary
 - [chmod](#chmod)
-- 
+- [chgrp](#chgrp)
+- [chown](#chown)
+- [useradd](#useradd)
+- [usermod](#usermod)
+- [sudo su](#sudo-su)
+- [sudo useradd](#sudo-useradd)
+- [getent passwd](#getent-passwd)
+- [sudo userdel](#sudo-userdel)
+- [sudo groupadd](#sudo-groupadd)
+- [sudo gpasswd](#sudo-gpasswd)
+- [getent group](#getent-group)
 
 ## chmod
 To grant specific file permission to a user or group, specify the user (u) or group (g), followed by the permission attribute and the file name.
